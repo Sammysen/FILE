@@ -1,0 +1,73 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Calibri";
+}
+.first {
+  height: 100vh;
+  margin: 0px auto;
+  background-image: url("Snapchat-1475834096.jpg");
+  background-size: contain;
+  background-size: cover;
+  color: #f0f8ff;
+}
+header {
+  display: flex;
+  flex-direction: row;
+}
+nav {
+  margin-left: 550px;
+}
+nav li {
+  margin-left: 100px;
+  display: inline;
+}
+header p {
+  margin-left: 20px;
+  font-size: 30px;
+  font-family: "Calibri";
+  font-style: italic;
+}
+.head {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #c38f8f;
+}
+.home {
+  margin-top: 280px;
+}
+.intro {
+  color: #0f0686e1;
+}
+.bio {
+  color: #1d2a9f;
+  font-style: italic;
+}
+.bar {
+  background-color: #d0d0d3;
+  width: 300px;
+  height: 8px;
+}
+.bar1 {
+  background-color: #00f;
+  width: 255px;
+  height: 8px;
+}
+.bar2 {
+  background-color: #00f;
+  width: 225px;
+  height: 8px;
+}
+.bar3 {
+  background-color: #00f;
+  width: 150px;
+  height: 8px;
+}
+.bar4 {
+  background-color: #00f;
+  width: 90px;
+  height: 8px;
+}
